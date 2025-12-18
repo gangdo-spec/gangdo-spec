@@ -1,44 +1,74 @@
-# Hi, I’m Konnichiwa 👋
+# 👋 Hi, I'm G@ango
 
-Blockchain & AI Developer with a full-stack background — focused on building secure, scalable systems with clarity, integrity, and long-term thinking.
+## 🚀 Blockchain & AI Developer
 
-I value clean architecture, honest communication, and delivering solutions that clients can trust and grow with.
-
----
-
-## 🔧 What I Do
-- Blockchain development (Smart Contracts, Web3, DeFi)
-- AI-powered applications & automation
-- Full Stack Web Development
-- API design & system integration
+Welcome to my profile! I'm **G@ango**, a passionate **Blockchain and Artificial Intelligence developer** focused on building secure, scalable, and intelligent systems. I enjoy working at the intersection of decentralized technologies and machine learning to solve real-world problems.
 
 ---
 
-## 🧩 Core Traits
-- Reliable & detail-oriented  
-- Security-first mindset  
-- Clear communicator  
-- Problem solver, not a buzzword chaser  
-- Strong ownership from idea → delivery  
+## 📖 Table of Contents
+- [About Me](#about-me)
+- [Skills & Technologies](#skills--technologies)
+- [What I Do](#what-i-do)
+- [Projects](#projects)
+- [Installation & Setup](#installation--setup)
+- [Usage](#usage)
+- [Examples](#examples)
+- [Troubleshooting](#troubleshooting)
+- [Contributors](#contributors)
+- [License](#license)
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** JavaScript, TypeScript, Python, Solidity, Rust  
-**Frameworks:** React, Next.js, Node.js  
-**Blockchain:** Ethereum, Solana, Web3.js, Ethers  
-**AI:** OpenAI APIs, automation pipelines  
-**Tools:** Git, Docker, Linux
+## 🧠 About Me
+
+I specialize in:
+- Designing and developing **blockchain-based applications**
+- Building **AI/ML models** for data-driven decision-making
+- Integrating **smart contracts** with modern web and backend systems
+
+I believe in clean code, decentralization, and responsible AI.
 
 ---
 
-## 📌 Philosophy
-> Build things that last.  
-> Ship with responsibility.  
-> Optimize for people, not hype.
+## 🛠️ Skills & Technologies
+
+### 🔗 Blockchain
+- Ethereum, EVM-based chains
+- Smart Contracts (Solidity)
+- Web3, DeFi, NFTs
+- Hardhat, Truffle, Foundry
+- IPFS, Oracles
+
+### 🤖 Artificial Intelligence
+- Machine Learning & Deep Learning
+- Python, PyTorch, TensorFlow
+- NLP & Computer Vision
+- Data Analysis & Model Optimization
+
+### 🌐 Backend & Tools
+- Python, JavaScript, TypeScript
+- Node.js, FastAPI
+- REST & GraphQL APIs
+- Docker, Git, CI/CD
 
 ---
 
-## 📫 Connect
-- GitHub: https://github.com/your-username
-- Email: your@email.com
+## 💡 What I Do
+
+- ✅ Develop decentralized applications (dApps)
+- ✅ Write secure and optimized smart contracts
+- ✅ Build AI models and integrate them into products
+- ✅ Combine blockchain + AI for automation and trustless systems
+
+---
+
+## 📂 Projects
+
+Some example project ideas you might find here:
+- 🪙 DeFi protocols and smart contracts
+- 🧠 AI-powered analytics platforms
+- 🔐 Blockchain-based identity systems
+- 🤝 AI-assisted Web3 applications
+
+> Each project includes documentation, setup instructions, and examples.
