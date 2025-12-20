@@ -6,7 +6,7 @@ Welcome to my profile! I'm **G@ango**, a passionate **Blockchain and Artificial 
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Blockchain
 - Ethereum, EVM-based chains
@@ -18,7 +18,6 @@ Welcome to my profile! I'm **G@ango**, a passionate **Blockchain and Artificial 
 <p>
   
   <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="72">
-  
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="72">
   <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="icon" width="72">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="72">
